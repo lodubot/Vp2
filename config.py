@@ -6,7 +6,7 @@ Edit this file with your bot token, admin IDs, and advanced settings
 import os
 
 # ==================== BOT SETTINGS ====================
-BOT_TOKEN = "8934169763:AAGScrCMAB31fD3ON-1Ci7tKab1lldCfg5s"  # @BotFather
+BOT_TOKEN = "8610655917:AAHecRtc0DLlG5dDlYDKvwNwUK8-r7ZatwM"  # @BotFather
 ADMIN_IDS = [8100453801]  # Your Telegram user IDs
 
 # ==================== SYSTEM PATHS ====================
